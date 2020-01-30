@@ -1,0 +1,4 @@
+scrapy.cfg
+quotes-[0-9].html
+.gitignore
+
